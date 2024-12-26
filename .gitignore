@@ -1,0 +1,7 @@
+.private
+git.json
+.wgd-directory.yaml
+.wgd-local-links.csv
+.wgd-local-log.csv
+*.debug.xml
+.tree.json
