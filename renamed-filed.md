@@ -2,7 +2,7 @@
 id: '1hfp_NpZGX9LEowfGjJ3txS-rht4G-8fbVEGT8jw_tGM'
 title: 'renamed filed'
 date: '2024-12-30T13:17:21.136Z'
-version: 26
+version: 27
 lastAuthor: 'mpierzchala'
 mimeType: 'text/x-markdown'
 links: []
@@ -14,3 +14,5 @@ More files
 Edited 13/12/24 11:57
 
 Renamed - 30/12/2024
+
+New change in renamed file
