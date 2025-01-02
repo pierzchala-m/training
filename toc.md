@@ -6,5 +6,6 @@ wikigdrive: '14369108b4618bce79d4c23f4d172a439fb63721'
 ---
    * [another file](another-file.md)
    * [brand new](brand-new.md)
-   * [next file](next-file.md)
+   * [navigation](navigation.md)
+   * [renamed filed twice](renamed-filed-twice.md)
    * [Test file](test-file.md)
