@@ -1,23 +1,23 @@
 ---
 id: '1gSYi6ezNmuUNq37GzIKqK2EDVvDd2yFmW-83x1HPwKA'
 title: 'list'
-date: '2025-02-07T17:52:27.044Z'
-version: 7
+date: '2025-02-25T13:19:09.400Z'
+version: 12
 lastAuthor: 'mpierzchala'
 mimeType: 'text/x-markdown'
-links:
-  - 'https://www.ietf.org/rfc/rfc4180.txt'
+links: []
 source: 'https://drive.google.com/open?id=1gSYi6ezNmuUNq37GzIKqK2EDVvDd2yFmW-83x1HPwKA'
 wikigdrive: 'ba8923eb9d87ece97cc4deddda96f7dd47d67a15'
 ---
-Data Migration follows the steps of Extraction, Transformation, and Loading, commonly referred to as ETL. The ETL strategy for this project is outlined in this section.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-1. Extraction: The customer is responsible for delivering the following data:
-    1. If applicable, legacy database backup(s) shall be exported and delivered to Enterprise Health for transformation and loading. New database exports shall be required for each cycle, plus dress rehearsal, plus final cutover.
-    2. Decrypted scanned documents shall be packaged and delivered to EH.  One initial delivery (Delta) and additional documents for Dress Rehearsal and Go Live
-    3. Excel or CSV reports
-        1. Shall be collected as mutually agreed and discussed from one or more sources such as, but not limited to:
-            1. Report exports from legacy systems
-            2. Spreadsheets used for data tracking (e.g., GDrive Sheets, MS Teams, OneDrive)
-            3. Spreadsheets collected from supervisors tracking HS memberships
-        2. CSV files must conform to [RFC 4180](https://www.ietf.org/rfc/rfc4180.txt). The delimiter may be any single ascii character. Special characters must be escaped properly, and fields with newlines must be quoted.
+1. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+    1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        1. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur:
+            1. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            2. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            3. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
