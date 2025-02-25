@@ -8,5 +8,6 @@ wikigdrive: 'ba8923eb9d87ece97cc4deddda96f7dd47d67a15'
    * [brand new](brand-new.md)
    * [list](list.md)
    * [navigation](navigation.md)
+   * [new doc](new-doc.md)
    * [renamed filed twice](renamed-filed-twice.md)
    * [Test file](test-file.md)
