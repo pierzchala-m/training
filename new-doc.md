@@ -1,8 +1,8 @@
 ---
 id: '1iwvbOMasl2Du_zElfYqRXJRRH2J2xGi-Gxhid-RgdLk'
 title: 'new doc'
-date: '2025-02-25T13:28:48.840Z'
-version: 6
+date: '2025-02-25T13:29:30.017Z'
+version: 9
 lastAuthor: 'mpierzchala'
 mimeType: 'text/x-markdown'
 links: []
