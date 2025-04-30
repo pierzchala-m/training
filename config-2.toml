@@ -9,9 +9,9 @@ theme = 'ananke'
 [params]
   description = 'books'
   [params.brand]
-    name = 'Harry Potter'
-    author = 'J.K. Rowling'
-    path = '/images/1.jpg'
+    name = 'The Witcher'
+    author = 'Sapkowski Andrzej'
+    path = '/images/2.jpg'
 
 
 [markup.goldmark.renderer]
