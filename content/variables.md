@@ -1,8 +1,8 @@
 ---
 id: '1wLt1np1KJMvRiyxshsPq-93d3KiIj4h-S2vNJURIc6w'
 title: 'variables'
-date: '2025-05-02T17:27:08.335Z'
-version: 30
+date: '2025-06-17T12:52:44.953Z'
+version: 35
 lastAuthor: 'mpierzchala'
 mimeType: 'text/x-markdown'
 links: []
