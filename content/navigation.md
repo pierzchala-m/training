@@ -1,8 +1,8 @@
 ---
 id: '1ZnJepwSxJ-RucVIbEKCtjAvqhsQEa7uDzqXl-cDpRjU'
 title: 'navigation'
-date: '2025-05-09T17:53:40.506Z'
-version: 37
+date: '2025-08-22T15:11:15.064Z'
+version: 41
 lastAuthor: 'mpierzchala'
 mimeType: 'text/x-markdown'
 links:
@@ -12,6 +12,7 @@ links:
   - 'renamed-filed-twice.md'
   - 'renamed-doc-26-02-25.md'
   - 'a-new-docuemnt.md'
+  - '05-03-2025.md'
 source: 'https://drive.google.com/open?id=1ZnJepwSxJ-RucVIbEKCtjAvqhsQEa7uDzqXl-cDpRjU'
 wikigdrive: 'eceff6687cd038a985df417f7eb53de150253a78'
 ---
@@ -21,3 +22,4 @@ wikigdrive: 'eceff6687cd038a985df417f7eb53de150253a78'
 * [Renamed file](renamed-filed-twice.md)
 * [new doc](renamed-doc-26-02-25.md)
 * [a new docuemnt - Google Docs](a-new-docuemnt.md)
+* [05-03-2025r.md](05-03-2025.md)

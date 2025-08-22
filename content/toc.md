@@ -16,4 +16,3 @@ wikigdrive: 'eceff6687cd038a985df417f7eb53de150253a78'
    * [renamed filed twice](renamed-filed-twice.md)
    * [Test file](test-file.md)
    * [testfile-17032025](testfile-17032025.md)
-   * [variables](variables.md)
